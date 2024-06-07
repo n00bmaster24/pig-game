@@ -1,6 +1,6 @@
 A simple JavaScript game of dice for 2 players.
 
-A player rolls a dice and base on the dice value it's added to a current score:
+A player rolls a dice and based on the dice value it's added to a current score:
 ![image](https://github.com/n00bmaster24/pig-game/assets/98321064/50c57aeb-7f45-45a0-bbd4-6978b2f4b8cd)
 
  If the player decides to Hold the score, it is added to the to his total score and then it's the second player's turn:
